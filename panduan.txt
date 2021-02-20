@@ -1,0 +1,28 @@
+PANDUAN PENGGUNAAN
+1.Menu Barang
+	- Data Barang	:Tambah,Edit,Hapus Data Barang
+	- Satuan Barang	: Tambah,Edit,Hapus Satuan
+	- Kategori Barang: Tambah,Edit,Hapus Kategori
+	- Supplier	: Tambah,Edit,Hapus Supplier
+2.Menu Gudang
+	- Pembelian	: Input Pembelian Barang
+	- Stok Barang	: Lihat Stok Barang
+	- Retur		: Input Barang Retur
+	- Barang Perlu Order: Cek Barang yang Menipis
+3.Menu Kasir
+	- Mesin Kasir	: Input Transaksi Penjualan
+	- Input Biaya	: Input Biaya Pengeluaran
+	- Rekap Hari Ini: Rekap Transaksi Hari Ini
+	- Barang Masuk Hari Ini : Rekap Barang Masuk Hari Ini
+4.Grafik
+	- Grafik Stok Barang
+	- Grafik Profit Bulanan
+	- Grafik Penjualan Bulanan
+	- Grafik Penjualan Tahunan
+5.Laporan
+	- Biaya-biaya
+	- Persediaan Barang
+	- Pembelian
+	- Penjualan Per Transaksi
+	- Profit Penjualan
+	- Rekapitulasi Penjualan
